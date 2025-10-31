@@ -14,7 +14,7 @@ The provided dataset contains scheduled and actual departure and arrival times r
 #### 3: Modeling  (Logistic Regression) and performance evaluation using accuracy, recall, precision and f1-score.
 ## How to run code?
 #### Editor: Google Colab
-First of all download dataset from above link link.  Then download this onpremisis_code.ipynb file and upload it on Google Colab from File option. Also upload data.zip file and then install necessary libraries.
+First of all download dataset from above link.  Then download this onpremisis_code.ipynb file and upload it on Google Colab from File option. Also upload data.zip file and then install necessary libraries.
 Now you can run code easily.
 This code is baseline for flight delays prediction. Though model performed well but in future data balancing and fine tuning is required.
 Thank you!
