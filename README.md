@@ -13,7 +13,8 @@ The provided dataset contains scheduled and actual departure and arrival times r
 # Comparison with basline model.
 
 ## Guideline to run code
-This code is run on google colab, simply download the .ipynb file and upload it on google colab. Download data from above link and also upload it on colab by clicking on File option. It will give you option to upload dataset zip file. Then install necessary libraries used in code and now you can run code easily.
-This code is useful for flight delays prediction as a baseline. However fine tunning and data resampling is required for more better results
+This code will created and run on google colab in .ipynb file, simply download the onpremises_code.ipynb file and upload it on google colab. Download data from above link and also upload (.zip file) on colab by clicking on File option. It will give you option to upload dataset zip file. Then install necessary libraries used in code and now you can run code easily.
+This code is useful for flight delays prediction as a baseline. However fine tunning and data resampling is required for more better results. With every line of code detail description is provided.
+
 
 
